@@ -1,14 +1,14 @@
 Hi 👋 My name is Florent
 ========================
 
-Junior REACT Developer.
+Software engineer
 -----------------------
 
-I am a junior Web Developer, interested in learning Blockchain Development
+Currently creating a saas for medical transport companies
 
 * 🌍  I'm based in Paris, FRANCE - willing to move anywhere
 * ✉️  You can contact me at [Florentzz.dev@gmail.com](mailto:Florentzz.dev@gmail.com)
-* 🧠  I'm learning React - Next.js - Typescript
+* 🧠  React - React native - NodeJS - Express - PSQL
 * 🤝  I'm open to collaborating on any project
 
 ### Skills
